@@ -14,7 +14,7 @@
 
 ### <h3>GitHub Stats</h3>
 
-<h2> Olá! Eu sou Gustavo Henrique, estudande de Análise e Desenvolvimento de Sistemas.</h2>
+<h2> Olá! Eu sou Gustavo Henrique, estudante de Análise e Desenvolvimento de Sistemas.</h2>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavohenridev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavohenridev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
