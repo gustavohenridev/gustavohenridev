@@ -13,6 +13,13 @@ public static void main(String[]args) {
 }
 
 ```
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:59fea0)](mailto:gustavohenri.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:59fea0)](https://www.linkedin.com/in/gustavo-henrique-756454319)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:59fea0)](https://www.instagram.com/guuh.png/)
+
 <h2>Tecnologias que já usei e/ou estão em aprendizado: </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Guuh-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,10 +37,3 @@ public static void main(String[]args) {
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavohenridev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
     
-### <h3>Contact</h3>
-
-<div> 
-  <a href="https://www.linkedin.com/in/gustavo-henrique-756454319" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:gustavohenri.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
