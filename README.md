@@ -42,9 +42,3 @@ public static void main(String[]args) {
 </div>
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavohenridev&theme=react&show_icons=true&hide_border=true&count_private=true)" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenridev&theme=react&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
-</div>
-    
